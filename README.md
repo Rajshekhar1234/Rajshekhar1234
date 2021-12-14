@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Rajshekhar1234
 - 👀 I’m interested in ...Lol
-- 🌱 I’m currently learning ...study 
+- 🌱 I’m currently learning ...something 
 - 💞️ I’m looking to collaborate on ...with best 
-- 📫 How to reach me ...lol 
+- 📫 How to reach me .everyone can 
 
 <!---
 Rajshekhar1234/Rajshekhar1234 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
